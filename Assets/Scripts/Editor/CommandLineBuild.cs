@@ -5,7 +5,7 @@ using UnityEditor.Build;
 using UnityEditor.Build.Reporting;
 using UnityEngine;
 
-namespace Polling.Editor
+namespace GameconClicker.Editor
 {
 
     public class CommandLineBuild {
